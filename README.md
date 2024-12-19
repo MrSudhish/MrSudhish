@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year mechanical engineering student<br> passionate about technology. Currently, <br> I am expanding my programming knowledge <br>by learning C, Python, and full stack development<br> through online resources. <br>I am eager to apply my skills in real-world projects and <br>contribute to innovative solutions in engineering.
+I am a second-year mechanical engineering student<br> passionate about technology. Currently, I am expanding my programming knowledge by learning C, Python, and full stack development through online resources. I am eager to apply my skills in real-world projects and contribute to innovative solutions in engineering.
 
 
 
