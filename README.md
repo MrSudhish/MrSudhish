@@ -17,7 +17,7 @@ I am a second-year mechanical engineering student<br> passionate about technolog
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrSudhish&icon=0&color=32)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MrSudhish&icon=0&color=324)](https://visitcount.itsvg.in)
 
 
 
